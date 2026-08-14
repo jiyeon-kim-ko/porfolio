@@ -1,0 +1,46 @@
+---
+title: "Résumé"
+format: html
+toc: true
+---
+
+::: {.callout-note appearance="simple"}
+**English Version** | [Korean Version (한국어)](resume_ko.qmd)
+:::
+
+[Download Résumé PDF](cv.pdf){.btn .btn-primary .btn-sm role="button" target="_blank"}
+
+---
+
+## 💼 Professional Experience
+
+* **Formulation & Process R&D Researcher** | R&D Center, KI Bio Co., Ltd. (Mar 2025 – Dec 2025)
+  * Developed transdermal matrix patch formulations (Drug-in-Adhesive) and validated HPLC assay methods.
+  * Conducted QbD-based formulation optimization, process validation, and bioequivalence studies for Valsartan single-agent tablets.
+  * Implemented unit-process PAT control strategies and developed ANN-driven dissolution prediction models for Triple FDC bilayer tablets.
+
+---
+
+## 🎓 Education
+
+* **Ph.D. Coursework Completed in Pharmacy** | Catholic University of Daegu (Mar 2023 – Feb 2025)
+* **M.S. in Industrial Pharmaceutics** | Inje University (Sep 2021 – Feb 2023)
+* **B.S. in Pharmaceutical Engineering** | Inje University (Mar 2018 – Aug 2021)
+
+---
+
+## 🛠 Technical Skills & Instrumentation
+
+### Formulation & Process Equipment
+* **Compaction & Tableting:** STYL'One Compaction Simulator, Single-Punch Tablet Press
+* **Granulation & Coating:** Fluid Bed Granulator/Coater (Glatt), High-Shear Mixer (Caleva/Syntegon)
+* **Powder & In-Vitro Testing:** FT4 Powder Rheometer, Franz Diffusion Cell System (Logan)
+
+### Analytical Instrumentation & PAT
+* **Chromatography & Spectroscopy:** HPLC (Agilent, Waters, Shimadzu), UV-Vis (Jasco), FT-IR (ABB), NIR (ABB)
+* **Process Analytics:** 3D Dynamic Imaging (Eyecon), Digital Image Correlation (DIC), Particle Image Velocimetry (PIV)
+
+### Scientific Software & Modeling
+* **QbD & DoE:** Design-Expert, MODDE, Minitab, JMP
+* **Chemometrics & MVA:** SIMCA (PCA, PLS)
+* **Programming & Data Science:** R, Python, MATLAB, Origin, SPSS

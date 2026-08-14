@@ -1,0 +1,68 @@
+---
+title: "papers"
+format: html
+---
+
+---
+title: "Publications (Papers)"
+toc: true
+---
+
+[Google Scholar Profile](https://scholar.google.co.kr/citations?user=stm_wqcAAAAJ&hl=ko){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+
+---
+
+## 📄 Peer-Reviewed Journal Articles (10 SCI/E Papers, 9 First-Author)
+
+### 2026
+1. Lee, S. M.; **Kim, J. Y.**; Choi, D. H. (2026).  
+   *"Development and optimization of an LED–based particle image velocimetry methodology for dynamic powder flowability in pharmaceutical manufacturing"*.  
+   **European Journal of Pharmaceutical Sciences**, 107543. (First Author)
+
+---
+
+### 2025
+2. **Kim, J. Y.**; Yeo, S.; Yoo, J.-H.; Kim, T. H.; Choi, D. H. (2025).  
+   *"Integrated control strategy based on deep learning and process analytical technology for the manufacture of a triple fixed-dose combination tablet"*.  
+   **Journal of Pharmaceutical Investigation**, 1–21. (First Author)
+
+3. **Kim, J. Y.**; Choi, D. H. (2025).  
+   *"Deep learning-based image classification and quantification models for tablet sticking"*.  
+   **International Journal of Pharmaceutics**, 678, 125690. (First Author)
+
+---
+
+### 2023
+4. **Kim, J. Y.**; Kim, T. H.; Kim, E.; Choi, D. H. (2023).  
+   *"Developmental strategy for swellable/erodible matrix tablet of mirabegron: quality by design approach with various geometric properties and pharmacokinetic evaluation"*.  
+   **Journal of Pharmaceutical Investigation**, 53(6), 881–894. (First Author)
+
+5. **Kim, J. Y.**; Choi, D. H. (2023).  
+   *"Quality by design approach with multivariate analysis and artificial neural network models to understand and control excipient variability"*.  
+   **Journal of Pharmaceutical Investigation**, 53(3), 389–406. (First Author)
+
+6. Yoo, S.-D.; **Kim, J. Y.**; Han, S.-K.; Lee, B.-H.; Choi, D. H.; Park, E.-S. (2023).  
+   *"Development of prediction model with machine learning in continuous twin screw granulation"*.  
+   **Journal of Pharmaceutical Investigation**, 53(5), 707–722. (First Author)
+
+---
+
+### 2022
+7. **Kim, J. Y.**; Choi, D. H. (2022).  
+   *"Control strategy for excipient variability in the quality by design approach using statistical analysis and predictive model: Effect of microcrystalline cellulose variability on design space"*.  
+   **Pharmaceutics**, 14(11), 2416. (First Author)
+
+8. Han, J. K.; **Kim, J. Y.**; Choi, D. H.; Park, E.-S. (2022).  
+   *"A formulation development strategy for dual-release bilayer tablets: An integrated approach of quality by design and a placebo layer"*.  
+   **International Journal of Pharmaceutics**, 618, 121659. (First Author)
+
+---
+
+### 2021
+9. **Kim, J. Y.**; Chun, M. H.; Choi, D. H. (2021).  
+   *"Control strategy for process development of high-shear wet granulation and roller compaction to prepare a combination drug using integrated quality by design"*.  
+   **Pharmaceutics**, 13(1), 80. (First Author)
+
+10. Chun, M.-H.; **Kim, J. Y.**; Park, E.-S.; Choi, D. H. (2021).  
+    *"Development of a robust control strategy for fixed-dose combination bilayer tablets with integrated quality by design, statistical, and process analytical technology approach"*.  
+    **Pharmaceutics**, 13(9), 1443. (Co-Author)

@@ -1,0 +1,32 @@
+---
+title: "Other Works (R&D Projects)"
+format: html
+toc: true
+---
+
+::: {.callout-note appearance="simple"}
+**English Version** | [Korean Version (한국어)](other_works_ko.qmd)
+:::
+
+## 🏛 National & Industry R&D Projects (10 Projects)
+
+* **Ministry of Trade, Industry and Energy (MOTIE)** | Mar 2025 – Dec 2025  
+  *Core Materials, Intermediates, and Finished Product Manufacturing Process Technology Development for High-Quality QbD-Based Antihypertensive Drugs*
+* **Ministry of Trade, Industry and Energy (MOTIE)** | Jun 2024 – Feb 2025  
+  *Development of Intestinal Transporter-Targeted Oral Drug Delivery System and Formulation Technology for Antibody Therapeutics*
+* **Ministry of Food and Drug Safety (MFDS)** | Mar 2024 – Nov 2024  
+  *Introduction of Global GMP-Based Innovative Pharmaceutical Technologies - Material Characterization and Intermediate Control Strategies in Continuous Manufacturing*
+* **Ministry of Trade, Industry and Energy (MOTIE)** | Apr 2020 – Dec 2024  
+  *Development of Ophthalmic Lens Drug Delivery Technology to Enhance Absorption of Dry Eye Disease Therapeutics (Lifitegrast)*
+* **Ministry of Food and Drug Safety (MFDS)** | Apr 2023 – Nov 2023  
+  *Establishment of QbD Implementation Foundation - Characteristics and Applications of Advanced Process Analytical Technology (PAT)*
+* **Inno-Town Development Project** | Jun 2023 – May 2024  
+  *Prototype Fabrication for Sustained-Release Balloon-Effect Drug Delivery Capsules*
+* **Inno-Town Development Project** | Jun 2022 – May 2023  
+  *Prototype Fabrication for Sustained-Release OAB Therapeutics Development*
+* **National Research Foundation of Korea (NRF)** | Mar 2021 – May 2023  
+  *Physicochemical Mechanism Study on the Effect of Multilayer Formulation Process Variability on Quality Using Mechanism-Based Models*
+* **Ministry of Food and Drug Safety (MFDS)** | Apr 2022 – Nov 2022  
+  *Establishment of QbD Implementation Foundation - Continuous Manufacturing Methodologies in QbD*
+* **Ministry of Food and Drug Safety (MFDS)** | Apr 2021 – Nov 2021  
+  *Establishment of QbD Implementation Foundation - Knowledge Management Methodologies in QbD*

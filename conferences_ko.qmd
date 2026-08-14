@@ -1,0 +1,58 @@
+---
+title: "conferences_ko"
+format: html
+---
+
+---
+title: "학술대회 발표 (Conferences)"
+format: html
+toc: true
+---
+
+::: {.callout-note appearance="simple"}
+[English Version](conferences.qmd) | **한국어 버전**
+:::
+
+## 🎤 국제 학술대회 (International Conferences)
+
+1. **김지연** (2025).  
+   *"Advanced image-based classification and quantification of tablet sticking using deep learning models"*.  
+   **2025 대한약학회 춘계국제학술대회 (주저자 구두/포스터 발표)**.
+2. **김지연** (2025).  
+   *"Comprehensive characterization of pharmaceutical powder flowability: integration of pharmacopeial standards and advanced dynamic techniques"*.  
+   **2025 대한약학회 춘계국제학술대회 (주저자 발표)**.
+3. **김지연** (2024).  
+   *"Quantifying and predicting sticking propensity using image analysis with deep learning"*.  
+   **2024 한국약제학회 총회 및 국제학술대회 (주저자 발표)**.
+4. **김지연** (2024).  
+   *"Prediction and quantitation of sticking propensity using the compression variables, digital image correlation (DIC), and image segmentation and analysis"*.  
+   **2024 대한약학회 춘계국제학술대회 (주저자 발표)**.
+5. **김지연** (2023).  
+   *"Development of a Novel Therapeutic Contact Lens with the Embedded-Drug Chamber as an Ophthalmic Drug Delivery System for Dry Eye Syndrome"*.  
+   **미국약학회 AAPS 2023 PharmSci 360 (미국 올랜도, 주저자 발표)**.
+6. **김지연** (2023).  
+   *"Development of the Quantitative Prediction Model by Applying Chemometric and Artificial Intelligence in the Near-Infrared Spectrum as Pharmaceutical Process Analytical Technology"*.  
+   **미국약학회 AAPS 2023 PharmSci 360 (미국 올랜도, 주저자 발표)**.
+7. **김지연** (2023).  
+   *"Understanding and predicting microcrystalline cellulose variability on the design space using statistical analysis and artificial neural networks"*.  
+   **2023 대한약학회 춘계국제학술대회 (주저자 발표)**.
+8. **김지연** (2022).  
+   *"Quality by design approach with multivariate analysis and artificial neural network models to understand and control excipient variability"*.  
+   **2022 한국약제학회 총회 및 국제학술대회 (주저자 발표)**.
+9. **김지연** (2021).  
+   *"A comprehensive study of fixed-dose combination bilayer tablet: Integrated approach of quality by design, statistical, and process analytical technology"*.  
+   **2021 한국약제학회 50주년 기념 총회 및 국제학술대회 (주저자 발표)**.
+
+---
+
+## 🇰🇷 국내 학술발표 및 심포지엄 (Domestic Symposia)
+
+10. **김지연** (2025).  
+    *"Integrating static and dynamic techniques for comprehensive powder flowability assessment in pharmaceutical manufacturing with microcrystalline cellulose"*.  
+    **제12회 대한약학회 약품분석학분과 동계심포지엄 및 정기총회**.
+11. **김지연** (2024).  
+    *"메커니즘 기반 수학적 모델 및 이미지 분석을 이용한 펀치 스티킹 성향 예측모델 개발"*.  
+    **제11회 대한약학회 약품분석학분과 동계심포지엄 및 정기총회**.
+12. **김지연** (2020).  
+    *"A combined approach of QbD and MVA to development and control strategy of bilayer tablet"*.  
+    **한국제약공학회 2020년 추계 학술발표회 (우수 포스터상 수상)**.

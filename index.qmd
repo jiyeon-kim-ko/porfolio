@@ -1,0 +1,68 @@
+---
+title: "Jiyeon Kim"
+subtitle: "Pharmaceutical R&D Researcher | Formulation & Process Design"
+image: profile.jpg
+page-layout: full
+about:
+  template: trestles
+  image-shape: round
+  image-width: 9em
+  links:
+    - icon: file-earmark-pdf-fill
+      text: Download Résumé (PDF)
+      href: cv.pdf
+    - icon: envelope
+      text: Email (Naver)
+      href: mailto:delayeon18@naver.com
+    - icon: envelope-fill
+      text: Email (Gmail)
+      href: mailto:unitaminkim@gmail.com
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.co.kr/citations?user=stm_wqcAAAAJ&hl=ko
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/ji-yeon-kim-144804394
+---
+
+::: {.callout-note appearance="simple"}
+**English Version** | [Korean Version (한국어)](index_ko.qmd)
+:::
+
+## 👩‍🔬 About Me
+I am a Pharmaceutical R&D Researcher specializing in oral dosage form development, manufacturing process optimization, and AI/ML-driven predictive modeling. With expertise spanning pre-formulation, DoE-based formulation design, and continuous process monitoring, I focus on establishing end-to-end Quality by Design (QbD) control strategies.
+
+---
+
+## 🎯 Research Interests
+* **Formulation & DDS:** Oral solid dosage forms (OSDF), fixed-dose combinations (FDC), controlled-release matrix systems, and transdermal patches.
+* **Process & QbD:** Design of Experiments (DoE), Critical Process Parameter (CPP) optimization, risk assessment, and Process Analytical Technology (PAT) integration.
+* **Data Science & AI/ML:** Machine learning/deep learning predictive modeling for continuous manufacturing, process monitoring, and tablet defect classification.
+
+---
+
+## 💼 Experience & Education
+
+::: {.experience-card}
+#### KI Bio Co., Ltd. (케이아이바이오㈜) <span class="badge-tag">R&D Center</span>
+**Mar 2025 – Dec 2025 | Formulation & Process R&D Researcher**
+* Formulated Drug-in-Adhesive transdermal matrix patch systems and established HPLC analytical methods.
+* Optimized QbD-based formulation and process validation for Valsartan single-agent tablets.
+* Established unit-process PAT control strategies and developed ANN-driven dissolution prediction models for Triple FDC bilayer tablets.
+:::
+
+::: {.experience-card}
+#### Education
+* **Ph.D. Coursework Completed in Pharmacy** | Catholic University of Daegu (Mar 2023 – Feb 2025)
+* **M.S. in Industrial Pharmaceutics** | Inje University (Sep 2021 – Feb 2023)
+* **B.S. in Pharmaceutical Engineering** | Inje University (Mar 2018 – Aug 2021)
+:::
+
+---
+
+### 📑 Quick Links
+* [Publications (Papers)](papers.qmd)
+* [Conferences & Presentations](conferences.qmd)
+* [Other Works (R&D Projects)](other_works.qmd)
+* [Résumé](resume.qmd)
+* [Personal Interests & Hobbies](hobbies.qmd)

@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "김지연 | Pharma R&D"
+  navbar:
+    background: dark
+    left:
+      - href: index_ko.qmd
+        text: "소개 (About)"
+      - href: papers.qmd
+        text: "논문 (Papers)"
+      - href: conferences_ko.qmd
+        text: "학술대회 (Conferences)"
+      - href: other_works_ko.qmd
+        text: "연구과제 (Other Works)"
+      - href: resume_ko.qmd
+        text: "이력서 (Résumé)"
+      - href: hobbies_ko.qmd
+        text: "취미 (Hobbies)"
+    right:
+      - text: "🌐 Language"
+        menu:
+          - text: "🇰🇷 한국어 버전 (Korean)"
+            href: index_ko.qmd
+          - text: "🇺🇸 English Version (영어)"
+            href: index.qmd
+      - icon: mortarboard
+        text: "Scholar"
+        href: https://scholar.google.co.kr/citations?user=stm_wqcAAAAJ&hl=ko
+      - icon: envelope
+        text: "Email"
+        href: mailto:delayeon18@naver.com
+      - icon: linkedin
+        text: "LinkedIn"
+        href: http://www.linkedin.com/in/ji-yeon-kim-144804394
+
+format:
+  html:
+    theme:
+      - flatly
+      - custom.scss
+    toc: true
