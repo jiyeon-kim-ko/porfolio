@@ -1,0 +1,102 @@
+---
+title: "Publications & R&D Projects"
+toc: true
+---
+
+::: {.callout-note appearance="simple"}
+**English Version** \| [Korean Version (한국어)](publications_ko.qmd)
+:::
+
+[Google Scholar Profile](https://scholar.google.co.kr/citations?user=stm_wqcAAAAJ&hl=ko){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+
+------------------------------------------------------------------------
+
+## 📄 Peer-Reviewed Journal Articles (10 SCI/E Papers, 9 First-Author)
+
+### 2026
+
+1.  Lee, S. M.; **Kim, J. Y.**; Choi, D. H. (2026).\
+    *"Development and optimization of an LED–based particle image velocimetry methodology for dynamic powder flowability in pharmaceutical manufacturing"*.\
+    **European Journal of Pharmaceutical Sciences**, 107543.
+
+------------------------------------------------------------------------
+
+### 2025
+
+2.  **Kim, J. Y.**; Yeo, S.; Yoo, J.-H.; Kim, T. H.; Choi, D. H. (2025).\
+    *"Integrated control strategy based on deep learning and process analytical technology for the manufacture of a triple fixed-dose combination tablet"*.\
+    **Journal of Pharmaceutical Investigation**, 1–21.
+
+3.  **Kim, J. Y.**; Choi, D. H. (2025).\
+    *"Deep learning-based image classification and quantification models for tablet sticking"*.\
+    **International Journal of Pharmaceutics**, 678, 125690.
+
+------------------------------------------------------------------------
+
+### 2023
+
+4.  **Kim, J. Y.**; Kim, T. H.; Kim, E.; Choi, D. H. (2023).\
+    *"Developmental strategy for swellable/erodible matrix tablet of mirabegron: quality by design approach with various geometric properties and pharmacokinetic evaluation"*.\
+    **Journal of Pharmaceutical Investigation**, 53(6), 881–894.
+
+5.  **Kim, J. Y.**; Choi, D. H. (2023).\
+    *"Quality by design approach with multivariate analysis and artificial neural network models to understand and control excipient variability"*.\
+    **Journal of Pharmaceutical Investigation**, 53(3), 389–406.
+
+6.  Yoo, S.-D.; **Kim, J. Y.**; Han, S.-K.; Lee, B.-H.; Choi, D. H.; Park, E.-S. (2023).\
+    *"Development of prediction model with machine learning in continuous twin screw granulation"*.\
+    **Journal of Pharmaceutical Investigation**, 53(5), 707–722.
+
+------------------------------------------------------------------------
+
+### 2022
+
+7.  **Kim, J. Y.**; Choi, D. H. (2022).\
+    *"Control strategy for excipient variability in the quality by design approach using statistical analysis and predictive model: Effect of microcrystalline cellulose variability on design space"*.\
+    **Pharmaceutics**, 14(11), 2416.
+
+8.  Han, J. K.; **Kim, J. Y.**; Choi, D. H.; Park, E.-S. (2022).\
+    *"A formulation development strategy for dual-release bilayer tablets: An integrated approach of quality by design and a placebo layer"*.\
+    **International Journal of Pharmaceutics**, 618, 121659.
+
+------------------------------------------------------------------------
+
+### 2021
+
+9.  **Kim, J. Y.**; Chun, M. H.; Choi, D. H. (2021).\
+    *"Control strategy for process development of high-shear wet granulation and roller compaction to prepare a combination drug using integrated quality by design"*.\
+    **Pharmaceutics**, 13(1), 80.
+
+10. Chun, M.-H.; **Kim, J. Y.**; Park, E.-S.; Choi, D. H. (2021).\
+    *"Development of a robust control strategy for fixed-dose combination bilayer tablets with integrated quality by design, statistical, and process analytical technology approach"*.\
+    **Pharmaceutics**, 13(9), 1443.
+
+------------------------------------------------------------------------
+
+## 🎤 Conference Presentations (Selected 15 Presentations)
+
+### International Conferences (AAPS, KSPST, PSK)
+
+1.  **Kim, J. Y.** (2025). *"Advanced image-based classification and quantification of tablet sticking using deep learning models"*. **2025 The Pharmaceutical Society of Korea (PSK) Spring International Convention**.
+2.  **Kim, J. Y.** (2025). *"Comprehensive characterization of pharmaceutical powder flowability: integration of pharmacopeial standards and advanced dynamic techniques"*. **2025 PSK Spring International Convention**.
+3.  **Kim, J. Y.** (2024). *"Quantifying and predicting sticking propensity using image analysis with deep learning"*. **2024 KSPST Annual Meeting & International Conference**.
+4.  **Kim, J. Y.** (2024). *"Prediction and quantitation of sticking propensity using compression variables, DIC, and image segmentation"*. **2024 PSK Spring International Convention**.
+5.  **Kim, J. Y.** (2023). *"Development of a Novel Therapeutic Contact Lens with the Embedded-Drug Chamber as an Ophthalmic Drug Delivery System for Dry Eye Syndrome"*. **AAPS 2023 PharmSci 360 (Orlando, USA)**.
+6.  **Kim, J. Y.** (2023). *"Development of Quantitative Prediction Model by Applying Chemometrics and AI in Near-Infrared Spectrum as PAT"*. **AAPS 2023 PharmSci 360 (Orlando, USA)**.
+7.  **Kim, J. Y.** (2023). *"Understanding and predicting microcrystalline cellulose variability on design space using statistical analysis and ANN"*. **2023 PSK Spring International Convention**.
+8.  **Kim, J. Y.** (2022). *"Quality by design approach with multivariate analysis and ANN models to understand and control excipient variability"*. **2022 KSPST Annual Meeting & International Conference**.
+9.  **Kim, J. Y.** (2021). *"A comprehensive study of fixed-dose combination bilayer tablet: Integrated approach of QbD, statistical, and PAT"*. **2021 KSPST 50th Anniversary International Conference**.
+
+------------------------------------------------------------------------
+
+## 🏛 National & Industry R&D Projects (10 Projects Participated)
+
+- **Ministry of Trade, Industry and Energy (MOTIE):** Core Materials, Intermediates, and Finished Product Manufacturing Process Technology Development for High-Quality QbD-Based Antihypertensive Drugs (2025.03 – 2025.12)
+- **Ministry of Trade, Industry and Energy (MOTIE):** Development of Intestinal Transporter-Targeted Oral Drug Delivery System and Formulation Technology for Antibody Therapeutics (2024.06 – 2025.02)
+- **Ministry of Food and Drug Safety (MFDS):** Introduction of Global GMP-based Innovative Pharmaceutical Technologies - Material Characterization and Intermediate Control Strategies in Continuous Manufacturing (2024.03 – 2024.11)
+- **Ministry of Trade, Industry and Energy (MOTIE):** Development of Ophthalmic Lens Drug Delivery Technology to Enhance Absorption of Dry Eye Disease Therapeutics (2020.04 – 2024.12)
+- **Ministry of Food and Drug Safety (MFDS):** Establishment of QbD Implementation Foundation - Characteristics and Applications of Advanced Process Analytical Technology (PAT) (2023.04 – 2023.11)
+- **National Research Foundation of Korea (NRF):** Physicochemical Mechanism Study on the Effect of Multilayer Formulation Process Variability on Quality Using Mechanism-Based Models (2021.03 – 2023.05)
+- **Inno-Town Development Project:** Prototype Fabrication for Sustained-Release OAB Therapeutics Development (2022.06 – 2023.05)
+- **Ministry of Food and Drug Safety (MFDS):** Establishment of QbD Implementation Foundation - Continuous Manufacturing Methodologies in QbD (2022.04 – 2022.11)
+- **Ministry of Food and Drug Safety (MFDS):** Establishment of QbD Implementation Foundation - Knowledge Management Methodologies in QbD (2021.04 – 2021.11)

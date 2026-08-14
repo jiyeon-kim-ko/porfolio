@@ -1,0 +1,115 @@
+---
+title: "publications_ko"
+format: html
+---
+
+---
+title: "논문 및 연구 과제 실적"
+format: html
+toc: true
+---
+
+::: {.callout-note appearance="simple"}
+[English Version](publications.qmd) \| **한국어 버전**
+:::
+
+[Google Scholar 프로필 바로가기](https://scholar.google.co.kr/citations?user=stm_wqcAAAAJ&hl=ko){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+
+------------------------------------------------------------------------
+
+## 📄 학술지 게재 논문 (SCI/E 10편, 주저자 9편)
+
+### 2026
+
+1.  이상민, **김지연**, 최두형 (2026).\
+    *"Development and optimization of an LED–based particle image velocimetry methodology for dynamic powder flowability in pharmaceutical manufacturing"*.\
+    **European Journal of Pharmaceutical Sciences**, 107543. (주저자)
+
+------------------------------------------------------------------------
+
+### 2025
+
+2.  **김지연**, 여상혁, 유제화, 김태환, 최두형 (2025).\
+    *"Integrated control strategy based on deep learning and process analytical technology for the manufacture of a triple fixed-dose combination tablet"*.\
+    **Journal of Pharmaceutical Investigation**, 1–21. (주저자)
+
+3.  **김지연**, 최두형 (2025).\
+    *"Deep learning-based image classification and quantification models for tablet sticking"*.\
+    **International Journal of Pharmaceutics**, 678, 125690. (주저자)
+
+------------------------------------------------------------------------
+
+### 2023
+
+4.  **김지연**, 김태환, 김은빈, 최두형 (2023).\
+    *"Developmental strategy for swellable/erodible matrix tablet of mirabegron: quality by design approach with various geometric properties and pharmacokinetic evaluation"*.\
+    **Journal of Pharmaceutical Investigation**, 53(6), 881–894. (주저자)
+
+5.  **김지연**, 최두형 (2023).\
+    *"Quality by design approach with multivariate analysis and artificial neural network models to understand and control excipient variability"*.\
+    **Journal of Pharmaceutical Investigation**, 53(3), 389–406. (주저자)
+
+6.  유승동, **김지연**, 한성균, 이병훈, 최두형, 박은석 (2023).\
+    *"Development of prediction model with machine learning in continuous twin screw granulation"*.\
+    **Journal of Pharmaceutical Investigation**, 53(5), 707–722. (주저자)
+
+------------------------------------------------------------------------
+
+### 2022
+
+7.  **김지연**, 최두형 (2022).\
+    *"Control strategy for excipient variability in the quality by design approach using statistical analysis and predictive model: Effect of microcrystalline cellulose variability on design space"*.\
+    **Pharmaceutics**, 14(11), 2416. (주저자)
+
+8.  한종권, **김지연**, 최두형, 박은석 (2022).\
+    *"A formulation development strategy for dual-release bilayer tablets: An integrated approach of quality by design and a placebo layer"*.\
+    **International Journal of Pharmaceutics**, 618, 121659. (주저자)
+
+------------------------------------------------------------------------
+
+### 2021
+
+9.  **김지연**, 천명희, 최두형 (2021).\
+    *"Control strategy for process development of high-shear wet granulation and roller compaction to prepare a combination drug using integrated quality by design"*.\
+    **Pharmaceutics**, 13(1), 80. (주저자)
+
+10. 천명희, **김지연**, 박은석, 최두형 (2021).\
+    *"Development of a robust control strategy for fixed-dose combination bilayer tablets with integrated quality by design, statistical, and process analytical technology approach"*.\
+    **Pharmaceutics**, 13(9), 1443. (공동저자)
+
+------------------------------------------------------------------------
+
+## 🎤 학술대회 발표 실적 (주저자 15건)
+
+### 국제 학술대회 (AAPS, 한국약제학회, 대한약학회)
+
+1.  **김지연** (2025). *"Advanced image-based classification and quantification of tablet sticking using deep learning models"*. **2025 대한약학회 춘계국제학술대회**.
+2.  **김지연** (2025). *"Comprehensive characterization of pharmaceutical powder flowability: integration of pharmacopeial standards and advanced dynamic techniques"*. **2025 대한약학회 춘계국제학술대회**.
+3.  **김지연** (2024). *"Quantifying and predicting sticking propensity using image analysis with deep learning"*. **2024 한국약제학회 총회 및 국제학술대회**.
+4.  **김지연** (2024). *"Prediction and quantitation of sticking propensity using the compression variables, digital image correlation (DIC), and image segmentation and analysis"*. **2024 대한약학회 춘계국제학술대회**.
+5.  **김지연** (2023). *"Development of a Novel Therapeutic Contact Lens with the Embedded-Drug Chamber as an Ophthalmic Drug Delivery System for Dry Eye Syndrome"*. **미국약학회 AAPS 2023 PharmSci 360 (미국 올랜도)**.
+6.  **김지연** (2023). *"Development of the Quantitative Prediction Model by Applying Chemometric and Artificial Intelligence in the Near-Infrared Spectrum as Pharmaceutical Process Analytical Technology"*. **미국약학회 AAPS 2023 PharmSci 360 (미국 올랜도)**.
+7.  **김지연** (2023). *"Understanding and predicting microcrystalline cellulose variability on the design space using statistical analysis and artificial neural networks"*. **2023 대한약학회 춘계국제학술대회**.
+8.  **김지연** (2022). *"Quality by design approach with multivariate analysis and artificial neural network models to understand and control excipient variability"*. **2022 한국약제학회 총회 및 국제학술대회**.
+9.  **김지연** (2021). *"A comprehensive study of fixed-dose combination bilayer tablet: Integrated approach of quality by design, statistical, and process analytical technology"*. **2021 한국약제학회 50주년 기념 총회 및 국제학술대회**.
+
+### 국내 학술발표 및 심포지엄
+
+10. **김지연** (2025). *"Integrating static and dynamic techniques for comprehensive powder flowability assessment in pharmaceutical manufacturing with microcrystalline cellulose"*. **제12회 대한약학회 약품분석학분과 동계심포지엄**.
+11. **김지연** (2024). *"메커니즘 기반 수학적 모델 및 이미지 분석을 이용한 펀치 스티킹 성향 예측모델 개발"*. **제11회 대한약학회 약품분석학분과 동계심포지엄**.
+12. **김지연** (2020). *"A combined approach of QbD and MVA to development and control strategy of bilayer tablet"*. **한국제약공학회 2020년 추계 학술발표회 (우수 포스터상 수상)**.
+
+------------------------------------------------------------------------
+
+## 🏛 국가 R&D 및 산학연 연구과제 (10건 참여)
+
+- **산업통상자원부:** 고품질 설계기반 고혈압 치료제 생산용 핵심 소재 및 중간체, 완제 생산 공정 기술개발 (2025.03 – 2025.12)
+- **산업통상자원부:** 항체의약품의 장내 수송체 표적형 경구 약물전달시스템 및 제형화 기술개발 (2024.06 – 2025.02)
+- **식품의약품안전처:** 글로벌 GMP 기반 제약혁신기술 도입 - 연속공정 적용을 위한 원료물질특성과 연속공정 중 반제품 품질 관리전략 개발 (2024.03 – 2024.11)
+- **산업통상자원부:** 안구건조증 치료 약물(lifitegrast)의 흡수율을 증가시키기 위한 점안렌즈를 이용한 약물전달 응용기술 개발 (2020.04 – 2024.12)
+- **식품의약품안전처:** 의약품 설계기반 품질고도화(QbD) 제도 도입기반 구축 - 기초기술 개발, 다양한 공정분석기술(PAT) 특성과 적용 방법 (2023.04 – 2023.11)
+- **연구개발특구진흥재단:** 풍선효과를 이용한 지속적 약물 방출 캡슐 개발을 위한 시제품 제작 연구 (2023.06 – 2024.05)
+- **연구개발특구진흥재단:** OAB 치료 서방형 신제품 개발을 위한 시제품 제작 연구 (2022.06 – 2023.05)
+- **한국연구재단:** 메커니즘 기반 모델을 이용한 다층복합제형 제조공정 변동성이 품질에 미치는 물리화학적 기전 연구 (2021.03 – 2023.05)
+- **식품의약품안전처:** 의약품 설계기반 품질고도화(QbD) 제도 도입기반 구축 - QbD 접근방식에서의 연속공정 방법론 개발 (2022.04 – 2022.11)
+- **식품의약품안전처:** 의약품 설계기반 품질고도화(QbD) 제도 도입기반 구축 - QbD 기반 지식관리 방법론 개발 (2021.04 – 2021.11)

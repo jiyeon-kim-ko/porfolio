@@ -1,0 +1,53 @@
+---
+title: "cv"
+format: html
+---
+
+---
+title: "Curriculum Vitae"
+format: html
+toc: true
+---
+
+## 🎓 Education
+
+- **Ph.D. Coursework Completed in Pharmacy** (GPA: **4.5 / 4.5**) \| Mar 2023 – Feb 2025
+  - *College of Pharmacy, Catholic University of Daegu*
+- **M.S. in Industrial Pharmaceutics** (GPA: **4.5 / 4.5**) \| Sep 2021 – Feb 2023
+  - *Department of Digital Anti-aging Healthcare, Inje University*
+- **B.S. in Pharmaceutical Engineering** (GPA: **4.07 / 4.5**) \| Mar 2018 – Aug 2021
+  - *Department of Pharmaceutical Engineering, Inje University*
+
+------------------------------------------------------------------------
+
+## 💼 Professional Experience
+
+- **R&D Center, KI Bio Co., Ltd. (케이아이바이오㈜)** \| Mar 2025 – Dec 2025
+  - **Role:** Formulation & Process R&D Researcher
+  - **Key Projects:**
+    - Development of Transdermal Matrix Patch for Parkinson's Disease (Drug-in-Adhesive, HPLC assay, Franz diffusion test).
+    - Process optimization and bioequivalence study of Valsartan single-agent tablets.
+    - PAT-integrated Quality by Design (QbD) control strategy and ANN-driven dissolution prediction for Triple Fixed-Dose Combination (FDC) tablets.
+
+------------------------------------------------------------------------
+
+## 🏆 Honors & Awards
+
+- **Best Poster Award (우수 포스터상)** \| Dec 2020
+  - *The Korean Society of Pharmaceutical Engineering (한국제약공학회 2020년 추계학술발표회)*
+
+------------------------------------------------------------------------
+
+## 🛠 Technical Skills & Instrumentation
+
+### Analytical & Process Equipment
+
+- **Formulation & Process:** STYL'One Compaction Simulator, Single-punch Tablet Press, Fluid Bed Granulator/Coater (Glatt), High-Shear Mixer (Caleva/Syntegon), FT4 Powder Rheometer, Franz Diffusion Cell (Logan).
+- **Analytical Instruments:** HPLC (Agilent, Waters, Shimadzu), UV-Vis (Jasco), FT-IR (ABB), NIR (ABB), High-Speed Camera (DIC / PIV).
+
+### Scientific Computing & Software
+
+- **QbD & DoE:** Design-Expert, MODDE, Minitab, JMP
+- **Chemometrics & MVA:** SIMCA (PCA, PLS)
+- **Data Science & ML/DL:** R, Python, MATLAB, Origin, SPSS
+- **Regulatory Documentation:** CTD Module 3.2.P drafting, Test Method Validation protocols.

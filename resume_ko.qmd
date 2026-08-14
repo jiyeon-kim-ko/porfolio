@@ -1,0 +1,54 @@
+---
+title: "resume_ko"
+format: html
+---
+
+---
+title: "이력서 (Résumé)"
+format: html
+toc: true
+---
+
+::: {.callout-note appearance="simple"}
+[English Version](resume.qmd) \| **한국어 버전**
+:::
+
+[이력서 PDF 다운로드](cv.pdf){.btn .btn-primary .btn-sm role="button" target="_blank"}
+
+------------------------------------------------------------------------
+
+## 💼 주요 연구 및 실무 경력 (Professional Experience)
+
+- **케이아이바이오㈜ 연구개발전담부서** \| 제제연구 및 공정개발 연구원 (2025.03 – 2025.12)
+  - **경피흡수 패치제 제형 개발:** 파킨슨병 치료용 Drug-in-Adhesive 매트릭스 패치 처방 설계 및 HPLC 정량 분석법 밸리데이션 확립
+  - **고혈압 치료제(발사르탄) QbD 공정 개발:** 단일제 처방 최적화, 스케일업 공정 밸리데이션(PV) 및 대조약 대비 생물학적동등성(비교용출) 확보
+  - **삼제 복합제(FDC) 이층정 제형화:** 단위공정별 공정분석기술(PAT) 실시간 관리 전략 수립 및 인공신경망(ANN) 기반 용출 예측 모델 구축
+
+------------------------------------------------------------------------
+
+## 🎓 학력 사항 (Education)
+
+- **약학 박사 수료** \| 대구가톨릭대학교 일반대학원 약학과 (2023.03 – 2025.02)
+- **산업약제학 석사 졸업** \| 인제대학교 일반대학원 디지털항노화헬스케어학과 (2021.09 – 2023.02)
+- **제약공학 학사 졸업** \| 인제대학교 제약공학과 (2018.03 – 2021.08)
+
+------------------------------------------------------------------------
+
+## 🛠 보유 기술 및 분석 장비 역량 (Technical Skills & Instrumentation)
+
+### 1. 제형 개발 및 제조 공정 장비 (Formulation & Process Equipment)
+
+- **타정 및 압축 시뮬레이션:** STYL'One Compaction Simulator (압축 프로파일링, 펀치 변위 분석), 단타 타정기 (Single-Punch Press)
+- **과립 및 코팅 공정:** 유동층 과립/코팅기 (Glatt Fluid Bed Granulator/Coater), 고전단 과립기 (High-Shear Mixer, Caleva/Syntegon)
+- **분체 물성 및 방출 시험:** FT4 분체 유동도 측정기 (FT4 Powder Rheometer), 프란츠 확산셀 시스템 (Logan Franz Diffusion Cell System)
+
+### 2. 기기 분석 및 첨단 PAT (Analytical Instrumentation & PAT)
+
+- **기기 분석 & 분광 분석:** HPLC (Agilent, Waters, Shimadzu), UV-Vis 분광광도계 (Jasco), FT-IR (ABB), NIR 분광분석기 (ABB)
+- **첨단 공정 분석 기술:** 3D 동적 입도 분석 (Eyecon), 디지털 이미지 상관법 (DIC), 입자 영상 유속계 (PIV)
+
+### 3. 통계 분석 및 인공지능/모델링 소프트웨어 (Scientific Software & Modeling)
+
+- **QbD 및 실험계획법(DoE):** Design-Expert, MODDE, Minitab, JMP
+- **다변량 통계 분석(MVA) & 케모메트릭스:** SIMCA (PCA, PLS)
+- **데이터 과학 및 프로그래밍:** R, Python, MATLAB, Origin, SPSS
