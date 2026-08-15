@@ -1,5 +1,5 @@
 ---
-title: "김지연 (Kim Jiyeon)"
+title: "김지연 (Kim Ji Yeon)"
 subtitle: "제약 R&D 연구원 | 제형 개발 & 공정 설계 (Formulation & Process Design)"
 image: profile.jpg
 page-layout: full

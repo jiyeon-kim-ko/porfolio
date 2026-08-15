@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "김지연 | Pharma R&D"
+  title: "김지연 | Ji Yeon Kim"
   navbar:
     background: dark
     left:

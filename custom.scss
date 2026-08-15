@@ -9,24 +9,36 @@ $font-family-sans-serif: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe
 
 /*-- scss:rules --*/
 
-/* 1. 상단 네비게이션 바 (모노톤 딥 차콜) */
+/* 1. 상단 네비게이션 바 (모노톤 딥 차콜 & 좌우 확장) */
 .navbar {
   background-color: #1e293b !important;
   border-bottom: 1px solid #334155 !important;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-  padding: 0.7rem 1.5rem;
+  padding: 0.7rem 0 !important; /* 상하 패딩 유지, 좌우 패딩은 내부 컨테이너에서 제어 */
+
+  /* 네비게이션 내부 컨테이너를 가로 100%로 확장하여 제목을 왼쪽 끝으로 배치 */
+  > .container-fluid {
+    max-width: 100% !important;
+    padding-left: 1.5rem !important;  /* 왼쪽 끝 여백 (더 당기려면 0.8rem ~ 1rem으로 조절) */
+    padding-right: 1.5rem !important; /* 오른쪽 끝 여백 */
+  }
   
+  /* 제목이 말줄임표(...)로 잘리지 않고 온전히 표시되도록 설정 */
   .navbar-brand {
     font-weight: 700;
     color: #f8fafc !important;
     font-size: 1.15rem;
+    flex-shrink: 0 !important;
+    max-width: none !important;
+    white-space: nowrap !important;
+    margin-right: 1.5rem !important; /* 메뉴와의 간격 확보 */
   }
   
   .nav-link {
     color: #cbd5e1 !important;
     font-size: 0.92rem;
     font-weight: 500;
-    padding: 0.4rem 0.7rem !important;
+    padding: 0.4rem 0.6rem !important; /* 좌우 여백 살짝 조절로 공간 확보 */
     transition: all 0.2s ease;
     
     &:hover, &.active {
@@ -55,11 +67,10 @@ $font-family-sans-serif: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe
   }
 }
 
-/* 2. 본문 및 전체 레이아웃 너비 대폭 확장 */
+/* 2. 본문 및 전체 레이아웃 너비 대폭 확장 (본문 컨테이너만 지정) */
 .page-columns, 
 .page-columns .content, 
 .quarto-container, 
-.container-fluid,
 main.content {
   max-width: 1350px !important; /* 화면 가로폭을 시원하게 1350px로 확장 */
   width: 100% !important;
@@ -189,6 +200,7 @@ main.content {
   border: 1px solid #e2e8f0;
   margin-left: 4px;
 }
+
 /* ====================================================
    콘텐츠 무단 복사 및 이미지 다운로드 방지 설정
    ==================================================== */

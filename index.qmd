@@ -1,5 +1,5 @@
 ---
-title: "Jiyeon Kim"
+title: "Ji Yeon Kim"
 subtitle: "Pharmaceutical R&D Researcher | Formulation & Process Design"
 image: profile.jpg
 page-layout: full
