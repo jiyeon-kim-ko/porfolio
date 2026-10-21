@@ -8,55 +8,59 @@ toc: true
 **English Version** \| [Korean Version (한국어)](hobbies_ko.qmd)
 :::
 
-## 🌟 Beyond the Lab: Synergy of Curiosity and Engineering
+## 🌟 Beyond the Lab: Things I Enjoy
 
-Outside of pharmaceutical research, my hobbies reflect the same curiosity, analytical rigor, and experimental spirit that drive my scientific work.
+Outside the lab, I enjoy following motorsports, building websites, and trying new baking recipes. These interests started in different ways, but they all reflect something I enjoy: learning how things work and trying things out for myself.
 
 ------------------------------------------------------------------------
 
-## 🏎️ Motorsports & Formula 1: Where Fluid Dynamics Meets Strategy
+## 🏎️ Motorsports & Formula 1
 
 - **Inspiration & Scientific Connection:**\
-  While studying **Computational Fluid Dynamics (CFD)** for pharmaceutical powder flow and process simulations, I was captivated by the aerodynamic engineering and real-time telemetry dynamics of Formula 1. The pursuit of marginal gains through data-driven optimization closely mirrors QbD principles in process development.
-- **On-Track Experience:**\
-  In **April 2026**, I attended the live **European Le Mans Series (ELMS)** at Circuit de Barcelona-Catalunya, Spain. Experiencing the endurance engineering, telemetry strategies, and aerodynamic machinery firsthand reinforced my passion for high-precision engineering.
+  While studying **Computational Fluid Dynamics (CFD)** for pharmaceutical process simulations and powder flow research, I became interested in Formula 1 and the role of aerodynamics in racing. I was particularly fascinated by how teams analyze vehicle data and adjust car setups and race strategies to suit different conditions. It also reminded me of pharmaceutical process optimization, where understanding the effects of different variables is essential.
+- **First Live Motorsport Experience:**\
+  In **April 2026**, I attended a **European Le Mans Series (ELMS)** race at Circuit de Barcelona-Catalunya in Spain. It was exciting to see the race cars and pit stops in person after watching motorsports mostly through a screen. I also had the chance to explore the paddock and take a closer look at the cars and their aerodynamic designs.
 
 ::: {layout-ncol="2"}
-![Live Action at Circuit de Barcelona-Catalunya (ELMS 2026)](images/elms_1.jpg){.rounded .shadow-sm}
+![*European Le Mans Series at Circuit de Barcelona-Catalunya (April 2026)*](images/elms_1.jpg){.rounded .shadow-sm}
 
-![Paddock & Aerodynamic Engineering](images/elms_2.jpg){.rounded .shadow-sm}
+*Exploring the Paddock and Race Cars*
+
+*Exploring the Paddock and Race Cars*
+
+![*Exploring the Paddock and Race Cars*](images/elms_2.jpg){.rounded .shadow-sm}
 :::
 
 ------------------------------------------------------------------------
 
-## 💻 Web Development & Scientific Tools: Engineering Practical Solutions
+## 💻 Building Websites
 
-- **Inspiration & Scientific Tools (Calculators for Junior Researchers):**\
-  During my graduate studies, I observed junior researchers frequently struggling with complex and repetitive calculations for formulation concentrations and excipient ratios. To minimize experimental errors and improve laboratory efficiency, I designed and developed **dedicated pharmaceutical calculation web applications**, as well as an **automated in vitro dissolution equivalence statistical evaluation web system** that computes similarity factors based on regulatory guidelines (MFDS/FDA) using dissolution data from reference and test formulations.
-- **Expansion into Learning Platforms:**\
-  To help peers with language learning, I developed and deployed a **TOEIC vocabulary memorization and test-taking web platform**. Recently, driven by my growing interest in German, I also built and actively use a dedicated interactive web tool designed to efficiently memorize and review German vocabulary.
+- **Calculation Tools for Pharmaceutical Research:**\
+  During graduate school, I noticed that junior researchers often had to repeat calculations involving formulation concentrations and ingredient ratios. I wanted to make these tasks easier, so I built a web application for pharmaceutical calculations. I also developed a dissolution comparison tool that calculates the similarity factor (f2) from dissolution data entered for reference and test products.
+- **English and German Learning Websites:**\
+  I created and shared a TOEIC study website with vocabulary practice and quiz features to help my friends study English. More recently, I started learning German and built another website to help me memorize and review vocabulary. I still use it for my own studies.
 
 ::: {layout-ncol="3"}
-![Lab Calculation Web App](images/web_calc.jpg){.rounded .shadow-sm}
+![*Pharmaceutical Calculation Web App*](images/web_calc.jpg){.rounded .shadow-sm}
 
-![In Vitro Dissolution (f2 Factor) Evaluation System](images/web_f2.jpg){.rounded .shadow-sm}
+![*Dissolution Similarity Factor (f2) Calculator*](images/web_f2.jpg){.rounded .shadow-sm}
 
-![Interactive English Learning Platform](images/web_english.jpg){.rounded .shadow-sm}
+![*TOEIC English Learning Website*](images/web_english.jpg){.rounded .shadow-sm}
 :::
 
 ------------------------------------------------------------------------
 
-## 🥐 Baking & Culinary Arts: The Science of Formulation at Home
+## 🥐 Baking & Cooking
 
-- **Inspiration from My Advisor:**\
-  During my graduate studies, my professor once remarked, *"A researcher who excels at formulation development naturally excels in the bakery."* Inspired by this analogy, I began exploring baking as a delicious extension of formulation science.
-- **Precision in Proportion & Porosity:**\
-  Accurately weighing ingredients, optimizing hydration levels, and controlling fermentation temperatures closely resemble the precision required in granulation and dosage form design.
-- **Signature Specialty — Focaccia:**\
-  My signature bake is **artisanal Focaccia**. I particularly take pride in mastering high-hydration doughs and cold fermentation techniques to achieve an open crumb structure with a crisp crust and pillowy texture.
+- **How I Started Baking:**\
+  During graduate school, my advisor once told me, "People who are good at formulation research tend to be good at cooking and baking, too." That comment stayed with me and inspired me to try baking. Over time, it became one of my favorite hobbies.
+- **Experimenting with Recipes:**\
+  I enjoy seeing how small changes in hydration, fermentation temperature, and ingredient ratios can affect the final result. When something doesn't turn out the way I expected, I adjust the recipe and try again until I get the texture I want.
+- **My Favorite Thing to Bake - Focaccia:**\
+  Focaccia is what I enjoy making most. I like working with high-hydration dough and cold fermentation to create bread with a crispy crust and a soft, airy interior. Experimenting with fermentation times and hydration levels is part of the fun.
 
 ::: {layout-ncol="2"}
-![Precision Formulation & Bread Making](images/baking_1.jpg){.rounded .shadow-sm}
+![*Homemade Baked Goods*](images/baking_1.jpg){.rounded .shadow-sm}
 
-![Signature High-Hydration Artisanal Focaccia](images/baking_2.jpg){.rounded .shadow-sm}
+![*Homemade Focaccia with Cold-Fermented Dough*](images/baking_2.jpg){.rounded .shadow-sm}
 :::

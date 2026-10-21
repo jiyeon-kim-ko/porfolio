@@ -47,14 +47,14 @@ I am a Pharmaceutical R&D Researcher specializing in oral dosage form developmen
 #### KI Bio Co., Ltd. (케이아이바이오㈜) <span class="badge-tag">R&D Center</span>
 **Mar 2025 – Dec 2025 | Formulation & Process R&D Researcher**
 * Formulated Drug-in-Adhesive transdermal matrix patch systems and established HPLC analytical methods.
-* Optimized QbD-based formulation and process validation for Valsartan single-agent tablets.
+* Optimized QbD-based formulation and process for Valsartan single-agent tablets.
 * Established unit-process PAT control strategies and developed ANN-driven dissolution prediction models for Triple FDC bilayer tablets.
 :::
 
 ::: {.experience-card}
 #### Education
 * **Ph.D. Coursework Completed in Pharmacy** | Catholic University of Daegu (Mar 2023 – Feb 2025)
-* **M.S. in Industrial Pharmaceutics** | Inje University (Sep 2021 – Feb 2023)
+* **M.S. in Industrial Pharmaceutics** | Inje University (Aug 2021 – Feb 2023)
 * **B.S. in Pharmaceutical Engineering** | Inje University (Mar 2018 – Aug 2021)
 :::
 

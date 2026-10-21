@@ -24,7 +24,7 @@ toc: true
 ## 🎓 Education
 
 - **Ph.D. Coursework Completed in Pharmacy** \| Catholic University of Daegu (Mar 2023 – Feb 2025)
-- **M.S. in Industrial Pharmaceutics** \| Inje University (Sep 2021 – Feb 2023)
+- **M.S. in Industrial Pharmaceutics** \| Inje University (Aug 2021 – Feb 2023)
 - **B.S. in Pharmaceutical Engineering** \| Inje University (Mar 2018 – Aug 2021)
 
 ------------------------------------------------------------------------

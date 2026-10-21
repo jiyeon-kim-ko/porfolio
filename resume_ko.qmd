@@ -38,9 +38,9 @@ toc: true
 
 ### 1. 제형 개발 및 제조 공정 장비 (Formulation & Process Equipment)
 
-- **타정 및 압축 시뮬레이션:** STYL'One Compaction Simulator (압축 프로파일링, 펀치 변위 분석), 단타 타정기 (Single-Punch Press)
+- **타정 및 압축 시뮬레이션:** STYL'One Compaction Simulator (압축 프로파일링, 펀치 변위 분석), 단발 타정기 (Single-Punch Press)
 - **과립 및 코팅 공정:** 유동층 과립/코팅기 (Glatt Fluid Bed Granulator/Coater), 고전단 과립기 (High-Shear Mixer, Caleva/Syntegon)
-- **분체 물성 및 방출 시험:** FT4 분체 유동도 측정기 (FT4 Powder Rheometer), 프란츠 확산셀 시스템 (Logan Franz Diffusion Cell System)
+- **분체 물성 및 방출 시험:** FT4 분체 유동도 측정기 (FT4 Powder Rheometer), 프란츠 디퓨젠 셀 (Logan Franz Diffusion Cell System)
 
 ### 2. 기기 분석 및 첨단 PAT (Analytical Instrumentation & PAT)
 
