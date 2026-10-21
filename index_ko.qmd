@@ -10,7 +10,7 @@ about:
   links:
     - icon: file-earmark-pdf-fill
       text: CV 다운로드 (PDF)
-      href: https://jiyeon-kim-ko.github.io/porfolio/cv.pdf
+      href: "https://jiyeon-kim-ko.github.io/porfolio/cv.pdf"
     - icon: envelope
       text: 이메일 (네이버)
       href: mailto:delayeon18@naver.com
