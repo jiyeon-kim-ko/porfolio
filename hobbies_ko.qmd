@@ -39,7 +39,7 @@ toc: true
 ::: {layout-ncol="3"}
 ![제제 연구 계산 웹 툴](images/web_calc.jpg){.rounded .shadow-sm}
 
-![의약품 비교용출 유사성 인자(f2) 계산 사이트 ](images/web_f2.jpg){.rounded .shadow-sm}
+![의약품 비교용출 유사성 인자(f2) 계산 사이트](images/web_f2.jpg){.rounded .shadow-sm}
 
 ![토익 영어 학습 웹 사이트](images/web_english.jpg){.rounded .shadow-sm}
 :::

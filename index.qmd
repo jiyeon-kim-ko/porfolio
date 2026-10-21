@@ -9,7 +9,7 @@ about:
   image-width: 9em
   links:
     - icon: file-earmark-pdf-fill
-      text: Download Résumé (PDF)
+      text: Download CV (PDF)
       href: cv.pdf
     - icon: envelope
       text: Email (Naver)

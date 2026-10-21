@@ -8,46 +8,36 @@ toc: true
 **English Version** \| [Korean Version (한국어)](conferences_ko.qmd)
 :::
 
-## 🎤 International Conferences
+## 🎤 Conference Presentations
 
-1.  **Kim, J. Y.** (2025).\
-    *"Advanced image-based classification and quantification of tablet sticking using deep learning models"*.\
-    **2025 The Pharmaceutical Society of Korea (PSK) Spring International Convention**.
-2.  **Kim, J. Y.** (2025).\
-    *"Comprehensive characterization of pharmaceutical powder flowability: integration of pharmacopeial standards and advanced dynamic techniques"*.\
-    **2025 The Pharmaceutical Society of Korea (PSK) Spring International Convention**.
-3.  **Kim, J. Y.** (2024).\
-    *"Quantifying and predicting sticking propensity using image analysis with deep learning"*.\
-    **2024 The Korean Society of Pharmaceutical Sciences and Technology (KSPST) Annual Meeting & International Conference**.
-4.  **Kim, J. Y.** (2024).\
-    *"Prediction and quantitation of sticking propensity using compression variables, digital image correlation (DIC), and image segmentation and analysis"*.\
-    **2024 The Pharmaceutical Society of Korea (PSK) Spring International Convention**.
-5.  **Kim, J. Y.** (2023).\
-    *"Development of a Novel Therapeutic Contact Lens with the Embedded-Drug Chamber as an Ophthalmic Drug Delivery System for Dry Eye Syndrome"*.\
-    **American Association of Pharmaceutical Scientists (AAPS) 2023 PharmSci 360 (Orlando, USA)**.
-6.  **Kim, J. Y.** (2023).\
-    *"Development of the Quantitative Prediction Model by Applying Chemometric and Artificial Intelligence in the Near-Infrared Spectrum as Pharmaceutical Process Analytical Technology"*.\
-    **American Association of Pharmaceutical Scientists (AAPS) 2023 PharmSci 360 (Orlando, USA)**.
-7.  **Kim, J. Y.** (2023).\
-    *"Understanding and predicting microcrystalline cellulose variability on the design space using statistical analysis and artificial neural networks"*.\
-    **2023 The Pharmaceutical Society of Korea (PSK) Spring International Convention**.
-8.  **Kim, J. Y.** (2022).\
-    *"Quality by design approach with multivariate analysis and artificial neural network models to understand and control excipient variability"*.\
-    **2022 The Korean Society of Pharmaceutical Sciences and Technology (KSPST) Annual Meeting & International Conference**.
-9.  **Kim, J. Y.** (2021).\
-    *"A comprehensive study of fixed-dose combination bilayer tablet: Integrated approach of quality by design, statistical, and process analytical technology"*.\
-    **2021 The 50th Anniversary Annual Meeting and International Conference of KSPST**.
+### International & Domestic Conferences (AAPS, KSPST, PSK)
 
-------------------------------------------------------------------------
+1.  **Kim, J. Y.** (2025). *"Advanced image-based classification and quantification of tablet sticking using deep learning models"*. **2025 PSK Spring International Convention**.
 
-## 🇰🇷 Domestic Conferences & Symposia
+2.  **Kim, J. Y.** (2025). *"Comprehensive characterization of pharmaceutical powder flowability: integration of pharmacopeial standards and advanced dynamic techniques"*. **2025 PSK Spring International Convention**.
 
-10. **Kim, J. Y.** (2025).\
-    *"Integrating static and dynamic techniques for comprehensive powder flowability assessment in pharmaceutical manufacturing with microcrystalline cellulose"*.\
-    **12th Winter Symposium & General Meeting of Pharmaceutical Analysis Division, The Pharmaceutical Society of Korea**.
-11. **Kim, J. Y.** (2024).\
-    *"Development of prediction model for punch sticking propensity using mechanism-based mathematical model and image analysis"*.\
-    **11th Winter Symposium & General Meeting of Pharmaceutical Analysis Division, The Pharmaceutical Society of Korea**.
-12. **Kim, J. Y.** (2020).\
-    *"A combined approach of QbD and MVA to development and control strategy of bilayer tablet"*.\
-    **The Korean Society of Pharmaceutical Engineering 2020 Autumn Conference (Best Poster Award)**.
+3.  **Kim, J. Y.** (2025). *"Integrating static and dynamic techniques for comprehensive powder flowability assessment in pharmaceutical manufacturing with microcrystalline cellulose"*. **12th PSK Pharmaceutical Analysis Division Winter Symposium and General Meeting**.
+
+4.  **Kim, J. Y.** (2024). *"Quantifying and predicting sticking propensity using image analysis with deep learning"*. **2024 KSPST Annual Meeting & International Conference**.
+
+5.  **Kim, J. Y.** (2024). *"Prediction and quantitation of sticking propensity using compression variables, DIC, and image segmentation"*. **2024 PSK Spring International Convention**.
+
+6.  **Kim, J. Y.** (2024). *"Development of prediction model for punch sticking propensity using mechanism-based mathematical model and image analysis"*. **11th PSK Pharmaceutical Analysis Division Winter Symposium and General Meeting**.
+
+7.  **Kim, J. Y.** (2023). *"Development of a Novel Therapeutic Contact Lens with the Embedded-Drug Chamber as an Ophthalmic Drug Delivery System for Dry Eye Syndrome"*. **AAPS 2023 PharmSci 360 (Orlando, USA)**.
+
+8.  **Kim, J. Y.** (2023). *"Development of the Quantitative Prediction Model by Applying Chemometric and Artificial Intelligence in the Near-Infrared Spectrum as Pharmaceutical Process Analytical Technology"*. **AAPS 2023 PharmSci 360 (Orlando, USA)**.
+
+9.  **Kim, J. Y.** (2023). *"Understanding and predicting microcrystalline cellulose variability on the design space using statistical analysis and artificial neural networks"*. **2023 PSK Spring International Convention**.
+
+10. **Kim, J. Y.** (2023). *"Quality by design approach for excipient variability: application of artificial neural networks and statistical analysis"*. **2023 PSK Spring International Convention**.
+
+11. **Kim, J. Y.** (2022). *"Quality by design approach with multivariate analysis and artificial neural network models to understand and control excipient variability"*. **2022 KSPST Annual Meeting & International Conference**.
+
+12. **Kim, J. Y.** (2022). *"Control strategy for excipient variability in the quality by design approach using statistical analysis and predictive model: effect of microcrystalline cellulose variability on design space"*. **2022 KSPST Annual Meeting & International Conference**.
+
+13. **Kim, J. Y.** (2021). *"A comprehensive study of fixed-dose combination bilayer tablet: Integrated approach of quality by design, statistical, and process analytical technology"*. **2021 KSPST 50th Anniversary International Conference**.
+
+14. **Kim, J. Y.** (2021). *"A Development Strategy for Dual-Release Mechanism Tablets: A Quantitative Analysis Using a Placebo Layer and Quality by Design"*. **2021 KSPST 50th Anniversary International Conference**.
+
+15. **Kim, J. Y.** (2020). *"A combined approach of QbD and MVA to development and control strategy of bilayer tablet"*. **2020 KSPST Fall Conference**.

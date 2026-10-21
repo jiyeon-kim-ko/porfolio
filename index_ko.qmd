@@ -9,7 +9,7 @@ about:
   image-width: 9em
   links:
     - icon: file-earmark-pdf-fill
-      text: 이력서(Résumé) 다운로드 (PDF)
+      text: CV 다운로드 (PDF)
       href: cv.pdf
     - icon: envelope
       text: 이메일 (네이버)
@@ -50,11 +50,11 @@ about:
 
 **2025.03 – 2025.12 \| 제제연구 및 공정개발 연구원**
 
-\* 파킨슨병 치료용 경피흡수 패치제(Drug-in-Adhesive) 설계, HPLC 분석법 확립 및 제조 몰드 개선을 통한 수율 향상
+-  파킨슨병 치료용 경피흡수 패치제(Drug-in-Adhesive) 설계, HPLC 분석법 확립 및 제조 몰드 개선을 통한 수율 향상
 
-\* 고혈압 치료제(발사르탄) 단일제 QbD 제형 및 공정 개발, 대조약 대비 비교용출 동등성 확보 및 기시법 수립
+- 고혈압 치료제(발사르탄) 단일제 QbD 제형 및 공정 개발, 대조약 대비 비교용출 동등성 확보 및 기시법 수립
 
-\* 삼제 복합제(FDC) 이층정 제형 개발, 단위공정별 PAT 관리 전략 및 ANN 용출 예측 모델 구축 (*JPI* 1저자 게재)
+- 삼제 복합제(FDC) 이층정 제형 개발, 단위공정별 PAT 관리 전략 및 ANN 용출 예측 모델 구축 (*JPI* 1저자 게재)
 :::
 
 ::: experience-card
